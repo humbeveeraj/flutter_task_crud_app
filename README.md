@@ -125,7 +125,7 @@ Android Emulator: flutter run -d <Android_Device_Name>
 ![App Screenshot 7](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot7.png)
 
 ### Back4App Dashboard and Updated Database
-![App Screenshot 7](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot8.png)
+![App Screenshot 8](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot8.png)
 
 
 
