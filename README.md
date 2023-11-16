@@ -121,7 +121,7 @@ Android Emulator: flutter run -d <Android_Device_Name>
 ### Flutter Mobile Application - About Page - Android 
 <img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot6.jpeg" width="250" height="550">
 
-### Flutter Mobile Application - Web Application View 
+### Flutter Web Application View 
 ![App Screenshot 7](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot7.png)
 
 
