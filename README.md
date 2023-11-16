@@ -124,6 +124,9 @@ Android Emulator: flutter run -d <Android_Device_Name>
 ### Flutter Web Application View 
 ![App Screenshot 7](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot7.png)
 
+### Back4App Dashboard and Updated Database
+![App Screenshot 7](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot8.png)
+
 
 
 ### Additional Resources
