@@ -104,7 +104,7 @@ Android Emulator: flutter run -d <Android_Device_Name>
 
 ### Screenshots
 <!-- Flutter Mobile Application - Task List - Android -->
-<img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot1.jpeg" width="500" height="300">
+<img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot1.jpeg" width="400" height="500">
 
 <!-- Flutter Mobile Application - Add Task - Android -->
 <img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot2.jpeg" width="300" height="200">
