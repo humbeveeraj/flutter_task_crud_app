@@ -103,18 +103,24 @@ Android Emulator: flutter run -d <Android_Device_Name>
 
 
 ### Screenshots
-***Flutter Mobile Application - Task List - Android***
-![App Screenshot 1](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot1.jpeg=300x200)
-***Flutter Mobile Application - Add Task - Android***
-![App Screenshot 2](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot2.jpeg =300x200)
-***Flutter Mobile Application - Edit Task - Android***
-![App Screenshot 3](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot3.jpeg =300x200)
-***Flutter Mobile Application - Delete Task Confirmation Pop-up and Delete - Android***
-![App Screenshot 4](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot4.jpeg =300x200)
-***Flutter Mobile Application - Side Navigation - Android***
-![App Screenshot 5](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot5.jpeg =300x200)
-***Flutter Mobile Application - About Page - Android***
-![App Screenshot 6](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot6.jpeg =300x200)
+<!-- Flutter Mobile Application - Task List - Android -->
+<img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot1.jpeg" width="300" height="200">
+
+<!-- Flutter Mobile Application - Add Task - Android -->
+<img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot2.jpeg" width="300" height="200">
+
+<!-- Flutter Mobile Application - Edit Task - Android -->
+<img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot3.jpeg" width="300" height="200">
+
+<!-- Flutter Mobile Application - Delete Task Confirmation Pop-up and Delete - Android -->
+<img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot4.jpeg" width="300" height="200">
+
+<!-- Flutter Mobile Application - Side Navigation - Android -->
+<img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot5.jpeg" width="300" height="200">
+
+<!-- Flutter Mobile Application - About Page - Android -->
+<img src="https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot6.jpeg" width="300" height="200">
+
 ***Flutter Mobile Application - Web Application View ***
 ![App Screenshot 7](https://github.com/humbeveeraj/flutter_task_crud_app/raw/main/application_images/screenshot7.png)
 
