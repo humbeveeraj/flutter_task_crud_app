@@ -7,12 +7,13 @@ This is a Flutter CRUD (Create, Read, Update, Delete) application with Parse Ser
 2. **Add Task**: Add a new Task with a task name and description.
 3. **Edit Task**: Modify the details of an existing Task.
 4. **Delete Task**: Remove a Task after confirming the deletion.
-5. **Pull-to-Refresh**: Refresh the Task list by pulling down the screen.
-6. **Side Navigation**: Access additional features and information from the side navigation menu.
-7. **About Section**: View information about the developer.
-8. **Responsive Pop-ups**: The add and edit pop-ups are responsive to the number of fields available in the form.
-9. **Attractive UI**: The app features a clean and attractive user interface.
-10. **Pop-up**: The confirmation pop-up for delete feature. 
+5. **Task Details Page** : On click of specific task, new page with all details of task is seen.
+6. **Pull-to-Refresh**: Refresh the Task list by pulling down the screen.
+7. **Side Navigation**: Access additional features and information from the side navigation menu.
+8. **About Section**: View information about the developer.
+9. **Responsive Pop-ups**: The add and edit pop-ups are responsive to the number of fields available in the form.
+10. **Attractive UI**: The app features a clean and attractive user interface.
+11. **Pop-up**: The confirmation pop-up for delete feature. 
 
 
 
