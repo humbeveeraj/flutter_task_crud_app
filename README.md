@@ -21,6 +21,20 @@ Before you start, make sure you have the following installed on your Windows 10 
 4.	Visual Studio Code (Optional): Although you can use any text editor, Visual Studio Code is recommended for a smoother development experience. Download it from Visual Studio Code.
 
 
+### System requirements
+To install and run Flutter, your development environment must meet these minimum requirements:
+
+1. **Operating Systems**: Windows 10 or later (64-bit), x86-64 based.
+2. **Disk Space**: 2.5 GB (does not include disk space for IDE/tools).
+3. **Tools**: Flutter depends on these tools being available in your environment.
+              Windows PowerShell 5.0 or newer (this is pre-installed with Windows 10)
+              Git for Windows 2.x, with the Use Git from the Windows Command Prompt option.
+
+**If Git for Windows is already installed, make sure you can run git commands from the command prompt or PowerShell.**
+
+### For other insallation details, refer link attached below
+https://docs.flutter.dev/get-started/install/windows#get-the-flutter-sdk
+
 
 ### Getting Started
 1.	Add Flutter to System Path: Add the flutter/bin directory to your system path to run Flutter commands globally.
