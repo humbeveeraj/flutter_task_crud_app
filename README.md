@@ -18,10 +18,10 @@ This is a Flutter CRUD (Create, Read, Update, Delete) application with Parse Ser
 
 ### Prerequisites
 Before you start, make sure you have the following installed on your Windows 10 machine:
-1.	Flutter SDK: Install the Flutter SDK by following the instructions on the official Flutter website: Flutter - Get Started
-2.	Git: Ensure that Git is installed on your machine. You can download Git from Git - Downloads.
-3.	Android Studio: Install Android Studio, which includes the Android SDK, by visiting Android Studio - Download.
-4.	Visual Studio Code (Optional): Although you can use any text editor, Visual Studio Code is recommended for a smoother development experience. Download it from Visual Studio Code.
+1.	**Flutter SDK**: Install the Flutter SDK by following the instructions on the official Flutter website: Flutter - Get Started
+2.	**Git**: Ensure that Git is installed on your machine. You can download Git from Git - Downloads.
+3.	**Android Studio**: Install Android Studio, which includes the Android SDK, by visiting Android Studio - Download.
+4.	**Visual Studio Code (Optional)**: Although you can use any text editor, Visual Studio Code is recommended for a smoother development experience. Download it from Visual Studio Code.
 
 
 
@@ -47,7 +47,7 @@ https://docs.flutter.dev/get-started/install/windows#get-the-flutter-sdk
 1.	Add Flutter to System Path: Add the flutter/bin directory to your system path to run Flutter commands globally.
 2.	Run flutter doctor: Open a terminal and run the following command to check if there are any dependencies you still need to install: 
 ```bash
-flutter doctor
+$ flutter doctor
 ```
 Follow the instructions provided by flutter doctor to resolve any issues.
 
@@ -57,25 +57,25 @@ Follow the instructions provided by flutter doctor to resolve any issues.
 1.	Create a New Flutter Project:
 Run the following commands to create a new Flutter project:
 ```bash
-flutter create my_flutter_app_name
+$ flutter create my_flutter_app_name
 ```
 
 2.	Navigate to the Project Directory:
 Change to the project directory:
 ```bash
-cd my_flutter_app_name
+$ cd my_flutter_app_name
 ```
 
 3.	Open the Project in Visual Studio Code (Optional):
 If you're using Visual Studio Code, open the project by running:
 ```bash
-code .
+$ code .
 ```
 
 4.	Run the App:
 Connect your Android device or start an Android emulator. Then, run the app using:
 ```bash
-flutter run
+$ flutter run
 ```
 This command compiles and runs your Flutter app on the connected device.
 
@@ -87,14 +87,14 @@ Make changes to your Flutter code, and press R in the terminal to hot reload the
 ### Repository setup and running application
 1.	Clone the repository:
 ```bash
-git clone https://github.com/humbeveeraj/flutter_task_crud_app.git
-cd repository-location
+$ git clone https://github.com/humbeveeraj/flutter_task_crud_app.git
+$ cd repository-location
 ```
 
 2.	Install dependencies:
 ```bash
-flutter pub get
-flutter pub upgrade
+$ flutter pub get
+$ flutter pub upgrade
 ```
 
 3.	Update Parse Server keys:
@@ -103,23 +103,23 @@ flutter pub upgrade
 
 4. To list all the configured devices, run below command from Terminal:
 ```bash
-flutter devices
+$ flutter devices
 ```
 
 5.	Run the App:
 Connect your Android device or start an Android emulator. Then, run the app using:
 ```bash
-flutter run
+$ flutter run
 ```
 
 6. Run the application on specific device:
 **Chrome Browser:**
 ```bash 
-flutter run -d chrome
+$ flutter run -d chrome
 ```
 **Android Emulator**
 ```bash
-Android Emulator: flutter run -d <Android_Device_Name>
+$ flutter run -d <Android_Device_Name>
 ```
 
 
