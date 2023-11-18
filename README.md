@@ -38,7 +38,6 @@ To install and run Flutter, your development environment must meet these minimum
 **If Git for Windows is already installed, make sure you can run git commands from the command prompt or PowerShell.**
 
 
-
 ### For other installation details, refer link attached below
 https://docs.flutter.dev/get-started/install/windows#get-the-flutter-sdk
 
@@ -152,10 +151,16 @@ $ flutter run -d <Android_Device_Name>
 
 
 
-
 ### Additional Resources
 1. Flutter Documentation: Explore detailed documentation to enhance your Flutter development skills.
 2. DartPad: Try Dart programming language online in a DartPad.
+
+
+### Devices to run the application on
+1. ***Simulator/Emulator***: You can run your Flutter app on a simulator/emulator to test and debug your application in an environment that emulates a specific device (iOS simulator or Android emulator).
+2. ***Connected device (wifi)***: You can run on the device connecting through wifi.
+3. ***Connected device (USB)***: You can run on the device connecting through USB.
+4. ***Web***: Flutter supports running applications on the web, allowing you to build and test your app in a web browser.
 
 **Congratulations! You've successfully set up and run your first Flutter application.**
 
